@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=b334b3&section=header&text=savage&fontSize=96&fontColor=f8f8f2&animation=scaleIn&stroke=bd93f9&strokeWidth=4" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=bd93f9&center=true&vCenter=true&width=900&height=90&lines=reverse+engineering+bloons+at+dumb+hours+%F0%9F%90%92%F0%9F%8E%88;unblocked+games+when+class+gets+boring+%F0%9F%8F%AB%F0%9F%94%A5;forking+legends+%3E+sleep;cpp+for+the+soul+%E2%9A%A1+js+for+the+chaos;rust+when+i+need+it+to+actually+work+%F0%9F%A6%80;lofi+%2B+neon+glows+only+%F0%9F%8E%A7%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=bd93f9&center=true&vCenter=true&width=900&height=90&lines=reverse+engineering+at+dumb+hours+%F0%9F%90%92%F0%9F%8E%88;unblocked+games+when+class+gets+boring+%F0%9F%8F%AB%F0%9F%94%A5;forking+legends+%3E+sleep;cpp+for+the+soul+%E2%9A%A1+js+for+the+chaos;rust+when+i+need+it+to+actually+work+%F0%9F%A6%80;lofi+%2B+neon+glows+only+%F0%9F%8E%A7%E2%9C%A8" />
 </div>
 
 <br>
@@ -86,7 +86,7 @@
     </div>
   </div>
 
-  <div style="background: #282a36; border: 2px solid #bd93f9; border-radius: 20px; padding: 24px; width: 360px; box-shadow: 0 0 25px rgba(189,147,249,0.4);">
+  <div style="background: #282a36; border: 2px solid #bd93f9; border-radius: 20px; padding: 24px; width: 360px; box-shadow: 0 0 25: 25px rgba(189,147,249,0.4);">
     <h3 align="center" style="color: #ff79c9; margin-top: 0;"><a href="https://github.com/savagelylol/classroom-6x.io" style="color: #ff79c9; text-decoration: none;">classroom-6x.io 🎮🏫</a></h3>
     <p align="center" style="color: #f8f8f2;">The forbidden games hub that IT teachers hate</p>
     <div align="center">
@@ -101,8 +101,8 @@
 <br><br>
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=savagelylol&theme=dracula&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&border_radius=20&include_all_commits=true&count_private=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savagelylol&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&border_radius=20&layout=donut-vertical" />
+  <img height="210" src="https://github-readme-stats.vercel.app/api?username=savagelylol&theme=dracula&bg_color=282a36&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&border_radius=20&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs" />
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savagelylol&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&border_radius=20&layout=donut-vertical&hide_border=false" />
 </div>
 
 <div align="center">
@@ -117,7 +117,8 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/savagelylol/savagelylol/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/savagelylol/savagelylol/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" style="max-width:100%; height:auto;" src="https://raw.githubusercontent.com/savagelylol/savagelylol/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake" style="max-width:100%; height:auto]];
+    src="https://raw.githubusercontent.com/savagelylol/savagelylol/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
